@@ -1,0 +1,9 @@
+title: My Webnovel (In Progress) 
+languageCode: en-us
+theme: hugo-book
+params:
+  BookSearch: true
+  BookMenuConfig: true
+  # Global Donation Visual Anchors
+  patreon: "https://www.patreon.com/test"
+  buymeacoffee: "https://www.buymeacoffee.com/yourusername/test"
